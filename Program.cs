@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pelin");
+            Console.WriteLine("Nu kör jag gruppens sista pull request i dagens runda! =) ");
+            // Bra körning idag!
         }
     }
 }
